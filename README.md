@@ -6,7 +6,7 @@ The challenge was taken from Frontendmentor: https://www.frontendmentor.io/chall
 
 ### Screenshot
 
-![](./order_summary.jpg)
+![](./order_summary.png)
 
 ## My process
 I intended to make the project desktop compatible only. That is so that i could practice more CSS positioning first before moving to responsible design. Overall it took me 1hour to complete. Most likely later projects will have mobile compatability added.
