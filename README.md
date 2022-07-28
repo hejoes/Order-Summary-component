@@ -18,7 +18,7 @@ I intended to make the project desktop compatible only. That is so that i could 
 
 ### What i learned
 I came across multible errors
-First one was that i wanted to position elements ```h2``` and ```p``` inside ```.plans``` to have ```text-align: left;``` but only the element h2 moved to left, p stayed in it's position. I found out that i had put margin 3rem on p element on everywhere, after specifying class for p element and specifying to remove the margin, it worked fine.
+First one was that i wanted to position elements ```h2``` and ```p``` inside ```.plans``` to have ```text-align: left;``` but only the element h2 moved to left, p stayed in it's position. I found out that i had put margin 3rem on p element on everywhere, after specifying class for p element and removing the margin, it worked fine.
 
 I found Inspect element to be incredible helpful in solving errors.
 
