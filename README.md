@@ -25,4 +25,4 @@ I found Inspect element to be incredible helpful in solving errors.
 
 
 ### Where can i improve
-I used ton of margins and manual sizing in order to make section elements so what compatible with each other. The problem with manual sizing is that if i want to change 1 element, I have to change all elements in order to make them compatible with each other again. This would be quite headache when moving on to responsive designs later on.
+I used ton of margins, padding and manual sizing in order to make section elements compatible with each other. The problem with manual sizing is that if i want to change one element, I have to change all elements in order to make them compatible with each other again. This would be quite headache when moving on to responsive designs later on.
